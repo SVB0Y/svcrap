@@ -407,7 +407,7 @@
 },
   
   "background": {
-    "blur": 1,
+    "blur": 4,
     "url": "https://files.catbox.moe/ujixyi.png",
     "alpha": 0.46
   },
