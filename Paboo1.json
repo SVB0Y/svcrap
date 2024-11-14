@@ -18,12 +18,12 @@
             "#201200"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e39f00aa",
-            "#e39f00aa"
+            "#e39f00af",
+            "#e39f00af"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#e39f00aa",
-            "#e39f00aa"
+            "#e39f00af",
+            "#e39f00af"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#00e39505",
