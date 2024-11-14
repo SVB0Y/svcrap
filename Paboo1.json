@@ -18,12 +18,12 @@
             "#201200"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e39f00F",
-            "#e39f00F"
+            "#e39f00",
+            "#e39f00"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#e39f00F",
-            "#e39f00F"
+            "#e39f00",
+            "#e39f00"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#00e39505",
@@ -42,8 +42,8 @@
             "#774f0f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#d2a0159a",
-            "#d2a0159a"
+            "#d2a0159",
+            "#d2a0159"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#6a4800",
@@ -356,7 +356,7 @@
         "PRIMARY_360": "#9e6f48",
         "PRIMARY_400": "#6a3a00",
         "PRIMARY_460": "#200e00",
-        "PRIMARY_500": "#00504f",
+        "PRIMARY_500": "#00ff1a",
         "PRIMARY_560": "#200e00",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#200e00",
