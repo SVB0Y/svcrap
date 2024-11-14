@@ -14,8 +14,8 @@
             "#9d0006"
         ],
         "BACKGROUND_FLOATING": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "BACKGROUND_MENTIONED": [
             "#0038375a",
@@ -38,16 +38,16 @@
             "#060607"
         ],
         "BACKGROUND_ACCENT": [
-            "#0f7577",
-            "#0f7577"
+            "#774f0f",
+            "#774f0f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#15CFD29a",
             "#15CFD29a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#006a68",
-            "#006a68"
+            "#6a4800",
+            "#6a4800"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#0038375a",
@@ -66,12 +66,12 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "BACKGROUND_TERTIARY": [
             "#060607",
@@ -82,12 +82,12 @@
             "#617b7a"			
         ],
         "CHANNEL_ICON": [
-            "#006a68",
-            "#006a68"
+            "#6a4800",
+            "#6a4800"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#9cf0f0",
-            "#9cf0f0"
+            "#f0ce9c",
+            "#f0ce9c"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#111214",
@@ -98,84 +98,84 @@
             "#000000"
         ],
         "CHAT_BORDER": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "DEPRECATED_CARD_BG": [
-            "#3bb8ba40",
-            "#9cf0f040"
+            "#ba903b40",
+            "#f0ce9c40"
         ],
         "DEPRECATED_CARD_EDITABLE_BG": [
-            "#3bb8ba4d",
-            "#9cf0f04d"
+            "#ba903b4d",
+            "#f0ce9c4d"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "DEPRECATED_STORE_BG": [
             "#affffe",
             "#affffe"
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER": [
             "#0000004d",
             "#0000004d"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
             "#020202",
             "#020202"
         ],
         "DEPRECATED_TEXT_INPUT_PREFIX": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
             "#00383780",
             "#00383780"
         ],
         "ELEVATION_HIGH": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "ELEVATION_LOW": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "ELEVATION_MEDIUM": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "ELEVATION_STROKE": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "FOCUS_PRIMARY": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
-            "#00201fcc",
-            "#00201fcc"
+            "#201200cc",
+            "#201200cc"
         ],
         "FORUM_POST_TAG_BACKGROUND": [
-            "#00201fe6",
-            "#00201fe6"
+            "#201200e6",
+            "#201200e6"
         ],
         "GUILD_HEADER_TEXT_SHADOW": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "HEADER_PRIMARY": [
             "#affffe",
@@ -186,8 +186,8 @@
             "#489e9d"
         ],
         "INFO_DANGER_BACKGROUND": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "INFO_DANGER_FOREGROUND": [
             "#248282",
@@ -198,32 +198,32 @@
             "#9d0006"
         ],
         "INFO_HELP_BACKGROUND": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "INFO_HELP_TEXT": [
             "#affffe",
             "#affffe"
         ],
         "INFO_POSITIVE_BACKGROUND": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "INFO_POSITIVE_TEXT": [
             "#affffe",
             "#affffe"
         ],
         "INFO_WARNING_BACKGROUND": [
-            "#3bb8ba",
-            "#9cf0f0"
+            "#ba903b",
+            "#f0ce9c"
         ],
         "INFO_WARNING_FOREGROUND": [
             "#000000",
@@ -246,24 +246,24 @@
             "#324c4b"
         ],
         "INTERACTIVE_NORMAL": [
-            "#9cf0f0",
-            "#9cf0f0"
+            "#f0ce9c",
+            "#f0ce9c"
         ],
         "LOGO_PRIMARY": [
-            "#83a598",
-            "#076678"
+            "#a59a83",
+            "#785807"
         ],
         "MODAL_FOOTER_BACKGROUND": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#0038375a",
@@ -282,8 +282,8 @@
             "#00000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#00201f",
-            "#00201f"
+            "#201200",
+            "#201200"
         ],
         "STATUS_DANGER_BACKGROUND": [
             "#fb4934",
@@ -294,16 +294,16 @@
             "#076678"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
-            "#3bb8ba",
-            "#3bb8ba"
+            "#ba903b",
+            "#ba903b"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#affffe",
             "#affffe"
         ],
         "STATUS_WARNING_BACKGROUND": [
-            "#9cf0f0",
-            "#9cf0f0"
+            "#f0ce9c",
+            "#f0ce9c"
         ],
         "STATUS_WARNING_TEXT": [
             "#000000",
@@ -334,8 +334,8 @@
             "#affffe"
         ],
         "TEXT_POSITIVE": [
-            "#3bb8ba",
-            "#3bb8ba"
+            "#ba903b",
+            "#ba903b"
         ],
         "TEXT_WARNING": [
             "#fb4934",
