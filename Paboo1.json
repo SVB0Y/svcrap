@@ -142,8 +142,8 @@
             "#f0ce9c"
         ],
         "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
-            "#00383780",
-            "#00383780"
+            "#382500",
+            "#382500"
         ],
         "ELEVATION_HIGH": [
             "#ba903b",
@@ -342,8 +342,8 @@
             "#9d0006"
         ],
         "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-            "#00383780",
-            "#00383780"
+            "#382500",
+            "#382500"
         ]
   
     },
