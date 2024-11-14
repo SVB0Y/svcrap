@@ -18,16 +18,16 @@
             "#201200"
         ],
         "BACKGROUND_MENTIONED": [
-            "#0038375a",
-            "#0038375a"
+            "#005a4e37",
+            "#005a4e37"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#0038375a",
-            "#0038375a"
+            "#005a4e37",
+            "#005a4e37"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#0038375a",
-            "#0038375a"
+            "#005a4e37",
+            "#005a4e37"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
@@ -50,8 +50,8 @@
             "#6a4800"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#0038375a",
-            "#0038375a"
+            "#005a4e37",
+            "#005a4e37"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#15CFD26a",
@@ -118,8 +118,8 @@
             "#f0ce9c"
         ],
         "DEPRECATED_STORE_BG": [
-            "#affffe",
-            "#affffe"
+            "#ffe6af",
+            "#ffe6af"
         ],
         "DEPRECATED_TEXT_INPUT_BG": [
             "#ba903b",
@@ -178,8 +178,8 @@
             "#f0ce9c"
         ],
         "HEADER_PRIMARY": [
-            "#affffe",
-            "#affffe"
+            "#ffe6af",
+            "#ffe6af"
         ],
         "HEADER_SECONDARY": [
             "#489e9d",
@@ -206,8 +206,8 @@
             "#201200"
         ],
         "INFO_HELP_TEXT": [
-            "#affffe",
-            "#affffe"
+            "#ffe6af",
+            "#ffe6af"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#ba903b",
@@ -218,8 +218,8 @@
             "#201200"
         ],
         "INFO_POSITIVE_TEXT": [
-            "#affffe",
-            "#affffe"
+            "#ffe6af",
+            "#ffe6af"
         ],
         "INFO_WARNING_BACKGROUND": [
             "#ba903b",
@@ -230,12 +230,12 @@
             "#000000"
         ],
         "INFO_WARNING_TEXT": [
-            "#affffe",
-            "#affffe"
+            "#ffe6af",
+            "#ffe6af"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#affffe",
-            "#affffe"
+            "#ffe6af",
+            "#ffe6af"
         ],
         "INTERACTIVE_HOVER": [
             "#bac2de",
@@ -266,16 +266,16 @@
             "#201200"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#0038375a",
-            "#0038375a"
+            "#005a4e37",
+            "#005a4e37"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#060607",
             "#060607"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#0038375a",
-            "#0038375a"
+            "#005a4e37",
+            "#005a4e37"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#00000000",
@@ -298,8 +298,8 @@
             "#ba903b"
         ],
         "STATUS_POSITIVE_TEXT": [
-            "#affffe",
-            "#affffe"
+            "#ffe6af",
+            "#ffe6af"
         ],
         "STATUS_WARNING_BACKGROUND": [
             "#f0ce9c",
@@ -310,28 +310,28 @@
             "#000000"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
-            "#74c7ec",
-            "#74c7ec"
+            "#ecc274",
+            "#ecc274"
         ],
         "TEXT_DANGER": [
             "#fb4934",
             "#9d0006"
         ],
         "TEXT_LINK": [
-            "#b4befe",
-            "#7680C0"
+            "#fef9b4",
+            "#c0b776"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#affffe",
-            "#affffe"
+            "#ffe6af",
+            "#ffe6af"
         ],
         "TEXT_MUTED": [
-            "#80d4d2",
-            "#80d4d2"
+            "#d4b280",
+            "#d4b280"
         ],
         "TEXT_NORMAL": [
-            "#affffe",
-            "#affffe"
+            "#ffe3af",
+            "#ffe6af"
         ],
         "TEXT_POSITIVE": [
             "#ba903b",
