@@ -42,8 +42,8 @@
             "#774f0f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#15CFD29a",
-            "#15CFD29a"
+            "#d2a0159a",
+            "#d2a0159a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#6a4800",
@@ -54,8 +54,8 @@
             "#00e39505"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#15CFD26a",
-            "#15CFD26a"
+            "#d2a0156a",
+            "#d2a0156a"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000",
