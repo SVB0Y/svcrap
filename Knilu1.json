@@ -14,16 +14,16 @@
             "#9d0006"
         ],
         "BACKGROUND_FLOATING": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "BACKGROUND_MENTIONED": [
             "#700fd1af",
             "#700fd1af"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#e39f00af",
-            "#e39f00af"
+            "#b200e3af",
+            "#b200e3af"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#00e39505",
@@ -38,12 +38,12 @@
             "#060607"
         ],
         "BACKGROUND_ACCENT": [
-            "#774f0f",
-            "#774f0f"
+            "#450f77",
+            "#450f77"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#d2a0159aa",
-            "#d2a0159aa"
+            "#8015d29aa",
+            "#8015d29aa"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#6a4800",
@@ -54,8 +54,8 @@
             "#00e39505"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#d2a0156a",
-            "#d2a0156a"
+            "#8015d26a",
+            "#8015d26a"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000",
@@ -66,12 +66,12 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "BACKGROUND_TERTIARY": [
             "#060607",
@@ -98,8 +98,8 @@
             "#000000"
         ],
         "CHAT_BORDER": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "DEPRECATED_CARD_BG": [
             "#ba903b40",
@@ -166,12 +166,12 @@
             "#f0ce9c"
         ],
         "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
-            "#201200cc",
-            "#201200cc"
+            "#160020cc",
+            "#160020cc"
         ],
         "FORUM_POST_TAG_BACKGROUND": [
-            "#201200e6",
-            "#201200e6"
+            "#160020e6",
+            "#160020e6"
         ],
         "GUILD_HEADER_TEXT_SHADOW": [
             "#ba903b",
@@ -202,8 +202,8 @@
             "#f0ce9c"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "INFO_HELP_TEXT": [
             "#ffe6af",
@@ -214,8 +214,8 @@
             "#f0ce9c"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "INFO_POSITIVE_TEXT": [
             "#ffe6af",
@@ -254,16 +254,16 @@
             "#785807"
         ],
         "MODAL_FOOTER_BACKGROUND": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#00e39505",
@@ -282,8 +282,8 @@
             "#00000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#201200",
-            "#201200"
+            "#160020",
+            "#160020"
         ],
         "STATUS_DANGER_BACKGROUND": [
             "#fb4934",
@@ -356,7 +356,7 @@
         "PRIMARY_360": "#9e6f48",
         "PRIMARY_400": "#4e006a",
         "PRIMARY_460": "#200e00",
-        "PRIMARY_500": "#e39f00",
+        "PRIMARY_500": "#b200e3",
         "PRIMARY_560": "#200e00",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#200e00",
