@@ -238,20 +238,20 @@
             "#d6afff"
         ],
         "INTERACTIVE_HOVER": [
-            "#ded4ba",
-            "#ded4ba"
+            "#c8bade",
+            "#c8bade"
         ],
         "INTERACTIVE_MUTED": [
-            "#4c4432",
-            "#4c4432"
+            "#3e324c",
+            "#3e324c"
         ],
         "INTERACTIVE_NORMAL": [
             "#c29cf0",
             "#c29cf0"
         ],
         "LOGO_PRIMARY": [
-            "#a59a83",
-            "#785807"
+            "#9583a5",
+            "#5a0778"
         ],
         "MODAL_FOOTER_BACKGROUND": [
             "#160020",
