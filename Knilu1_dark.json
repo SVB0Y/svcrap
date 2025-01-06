@@ -182,16 +182,16 @@
             "#d6afff"
         ],
         "HEADER_SECONDARY": [
-            "#9e8448",
-            "#9e8448"
+            "#81489e",
+            "#81489e"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#8b3bba",
             "#c29cf0"
         ],
         "INFO_DANGER_FOREGROUND": [
-            "#825e24",
-            "#825e24"
+            "#612482",
+            "#612482"
         ],
         "INFO_DANGER_TEXT": [
             "#fb4934",
@@ -387,20 +387,20 @@
         "RED_430": "#af15d2",
         "RED_460": "#af15d2",
         "GREEN_360": "#689d6a",
-        "WHITE_500": "#ffebaf",
+        "WHITE_500": "#fbafff",
         "YELLOW_300": "#6027a6"
     },
   "plus": {
     "version": 0,
     "unreadBadgeColor": "#483b54",
-    "mentionLineColor": "#c4c473",
+    "mentionLineColor": "#b873c4",
       "icons": {
-        "ic_radio_circle_checked": "#6a632f",
+        "ic_radio_circle_checked": "#512f6a",
         "ic_selection_checked_24px": "RC_BRAND_500",
-        "ic_new_pins": "#f5e77a",
-        "boost": "#f5ed94",
-        "ic_settings_boost_24px": "#f5e894",
-        "member_list_badge_16px": "#f5e894"
+        "ic_new_pins": "#c47af5",
+        "boost": "#694f5",
+        "ic_settings_boost_24px": "#cd94f5",
+        "member_list_badge_16px": "#cd94f5"
     },
   "customOverlays": true,
   "iconpack":"deco"
